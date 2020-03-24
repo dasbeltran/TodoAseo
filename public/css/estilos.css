@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    height: 240px;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    font: oblique bold 230% cursive;
+}
+.contitulo{
+    padding: 1rem;
+    margin-top: 20px;
+    background: black;
+    color: white;
+}
+.enlace1{
+    background: black;
+}
+
+ 
